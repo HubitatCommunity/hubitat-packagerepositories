@@ -4,6 +4,14 @@
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"
 		},
 		{
+			"name": "Victor Santana (Welasco)",
+			"location": "https://raw.githubusercontent.com/Welasco/hubitat/master/repository.json"
+		},		
+		{
+			"name": "Ramdev Shallem",
+			"location": "https://raw.githubusercontent.com/gilshallem/Hubitat/main/HPM/repositories.json"
+		},
+		{
 			"name": "BPTWorld",
 			"location": "https://raw.githubusercontent.com/bptworld/Hubitat/master/repositories.json"
 		},
@@ -50,10 +58,6 @@
 		{
 			"name": "Joseph Kregloh",
 			"location": "https://raw.githubusercontent.com/funzie19/hubitat-solaredge/master/repositories.json"
-		},
-		{
-			"name": "mircolino",
-			"location": "https://raw.githubusercontent.com/mircolino/ecowitt/master/repository.json"
 		},
 		{
 			"name": "Anthony S. (tonesto7)",
@@ -213,6 +217,10 @@
 			"location": "https://raw.githubusercontent.com/jonesalexr/hubitat/master/repository.json"
 		},
 		{
+			"name": "dbadge",
+			"location": "https://raw.githubusercontent.com/Gelix/HubitatTailwind/main/repository.json"
+		},
+		{
 			"name": "Ernie Miller (@ernie)",
 			"location": "https://raw.githubusercontent.com/ernie/hubitat/main/repository.json"
 		},
@@ -336,9 +344,105 @@
 		{
 			"name": "rob121",
 			"location": "https://raw.githubusercontent.com/rob121/hubitat/master/repository.json"
+		},
+		{
+			"name": "Simon Burke (sburke781)",
+			"location": "https://raw.githubusercontent.com/sburke781/hubitat/master/repository.json"
+		},
+		{
+			"name": "Minoston (sky-nie)",
+			"location": "https://raw.githubusercontent.com/sky-nie/hubitat/master/repository.json"
+		},
+		{
+			"name": "Scott Barton (sab0276)",
+			"location": "https://raw.githubusercontent.com/sab0276/Hubitat/main/repository.json"
+		},
+		{
+			"name": "Raul Martin Rodriguez (luarmr)",
+			"location": "https://raw.githubusercontent.com/luarmr/hubitat/main/repository.json"
+		},
+    {
+      "name": "dacmanj",
+			"location": "https://raw.githubusercontent.com/dacmanj/hubitat/main/repository.json"
+    },
+		{
+			"name": "Daniel Segall (dds82)",
+			"location": "https://raw.githubusercontent.com/dds82/hpm-master-manifest/main/repository.json"
+		},
+		{
+			"name": "Don Caton (dcaton)",
+			"location": "https://raw.githubusercontent.com/dcaton/Hubitat/main/repository.json"
+		},
+     {
+			"name": "kaimyn",
+			"location": "https://raw.githubusercontent.com/kaimyn/Hubitat/main/repository.json"
+		},	 
+		{
+			"name": "Ben Deitch (@xap)",
+			"location": "https://raw.githubusercontent.com/xap-code/hubitat/master/repository.json"
+		},
+			 {
+			"name": "Community Code",
+			"location": "http://hpm.hubitatcommunity.com/communityrepo.json"
+		},	 
+		{
+			"name": "James Shimota (Shumo)",
+			"location": "https://raw.githubusercontent.com/jshimota01/hubitat/main/repository.json"
+		},
+		{
+			"name": "Jake Lehner",
+			"location": "https://raw.githubusercontent.com/jakelehner/Hubitat/master/repositories.json"
+		},
+		{
+			"name": "Eduardo Simioni",
+			"location": "https://raw.githubusercontent.com/esimioni/lutron-aurora-hubitat/main/hpm/repository.json"
+    },
+    {
+			"name": "kkossev",
+			"location": "https://raw.githubusercontent.com/kkossev/Hubitat/main/repository.json"
+		},
+		{
+			"name": "Pedro Andrade",
+			"location": "https://raw.githubusercontent.com/pedroandrade1977/hubitat/main/repository.json"
+		},
+		{
+			"name": "Rangner Ferraz Guimaraes",
+			"location": "https://raw.githubusercontent.com/rfg81/hubitat-homeconnect/main/repository.json"
+		},
+		{
+			"name": "Simon Burke (Scruffy-Sjb)",
+			"location": "https://raw.githubusercontent.com/scruffy-sjb/Hubitat_HPM/main/repository.json"
+		},
+		{
+			"name": "DarwinsDen",
+			"location": "https://raw.githubusercontent.com/DarwinsDen/Hubitat/master/repositories.json"
+		},
+		{
+			"name": "David LaPorte",
+			"location": "https://raw.githubusercontent.com/dlaporte/Hubitat/main/repository.json"
+		},
+		{
+			"name": "Samuel C Auclair",
+			"location": "https://raw.githubusercontent.com/sacua/SinopeDriverHubitat/main/repository.json"			
+		},
+		{
+			"name": "Josh Rosenberg",
+			"location": "https://raw.githubusercontent.com/rosenbergj/hubitat-shabbat-and-chag/main/repository.json"
+		},
+		{
+			"name": "Vyrolan iAqualink-Hubitat",
+			"location": "https://raw.githubusercontent.com/Vyrolan/iAqualink-Hubitat/main/repository.json"
+		},
+		{
+			"name": "dan.t",
+			"location": "https://raw.githubusercontent.com/danTapps/Hubitat/master/repository.json"
+		},
+		{
+			"name": "Gary J. Milne",
+			"location": "https://github.com/GaryMilne/Hubitat-Tasmota/blob/main/packageManifest.json"
 		}
-			 
 	],
+
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packagemanager/master/packageManifest.json"
 	}

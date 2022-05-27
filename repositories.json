@@ -1,5 +1,6 @@
 {
-	"repositories": [{
+	"repositories": [
+		{
 			"name": "dman2306",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"
 		},
@@ -26,7 +27,7 @@
 		{
 			"name": "heidrickla (Lewis.Heidrick)",
 			"location": "https://raw.githubusercontent.com/heidrickla/Hubitat/main/Docs/repository.json"
-		},	 
+		},
 		{
 			"name": "storageaanarchy (SANdood)",
 			"location": "https://raw.githubusercontent.com/SANdood/Hubitat-Stuff/master/repository.json"
@@ -199,7 +200,6 @@
 			"name": "LGKApps kahn@lgk.com lgkahn-hubitat",
 			"location": "https://raw.githubusercontent.com/lgkahn/hubitat/master/LGKrepository.json"
 		},
-
 		{
 			"name": "Botched1",
 			"location": "https://raw.githubusercontent.com/Botched1/Hubitat/master/packages/repository.json"
@@ -308,18 +308,17 @@
 			"name": "droath",
 			"location": "https://raw.githubusercontent.com/droath/Hubitat/master/repository.json"
 		},
-				 
 		{
-      		"name": "benevolent",
+			"name": "benevolent",
 			"location": "https://raw.githubusercontent.com/serenewaffles/hubitat/main/repository.json"
 		},
 		{
-      		"name": "ymerj",
-      		"location": "https://raw.githubusercontent.com/ymerj/hpm/main/repository.json"
+			"name": "ymerj",
+			"location": "https://raw.githubusercontent.com/ymerj/hpm/main/repository.json"
 		},
 		{ 
-      		"name": "Jean P. May, Jr.",
-      		"location": "https://raw.githubusercontent.com/thebearmay/hubitat/main/thebearmayRepository.json"
+			"name": "Jean P. May, Jr.",
+			"location": "https://raw.githubusercontent.com/thebearmay/hubitat/main/thebearmayRepository.json"
 		},
 		{
 			"name": "Michael van Dam",
@@ -376,15 +375,15 @@
 		{
 			"name": "kaimyn",
 			"location": "https://raw.githubusercontent.com/kaimyn/Hubitat/main/repository.json"
-		},	 
+		},
 		{
 			"name": "Ben Deitch (@xap)",
 			"location": "https://raw.githubusercontent.com/xap-code/hubitat/master/repository.json"
 		},
-			 {
+		{
 			"name": "Community Code",
 			"location": "http://hpm.hubitatcommunity.com/communityrepo.json"
-		},	 
+		},
 		{
 			"name": "James Shimota (Shumo)",
 			"location": "https://raw.githubusercontent.com/jshimota01/hubitat/main/repository.json"
@@ -442,7 +441,6 @@
 			"location": "https://raw.githubusercontent.com/GaryMilne/Hubitat-Tasmota/main/repository.json"
 		}
 	],
-
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"
 	}

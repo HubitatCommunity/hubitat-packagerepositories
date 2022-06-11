@@ -433,6 +433,10 @@
 			"location": "https://raw.githubusercontent.com/Vyrolan/iAqualink-Hubitat/main/repository.json"
 		},
 		{
+			"name": "Vyrolan",
+			"location": "https://raw.githubusercontent.com/Vyrolan/VyrolanHomeAutomation/main/Hubitat/repository.json"
+		},
+		{
 			"name": "dan.t",
 			"location": "https://raw.githubusercontent.com/danTapps/Hubitat/master/repository.json"
 		},

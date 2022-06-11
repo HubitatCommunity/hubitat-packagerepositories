@@ -439,6 +439,10 @@
 		{
 			"name": "Gary J. Milne",
 			"location": "https://raw.githubusercontent.com/GaryMilne/Hubitat-Tasmota/main/repository.json"
+		},
+		{
+			"name": "Terrel Allen",
+			"location": "https://raw.githubusercontent.com/terrelsa13/Device-Mirror-Plus/master/repository.json"
 		}
 	],
 	"hpm": {

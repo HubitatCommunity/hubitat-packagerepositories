@@ -443,6 +443,10 @@
 		{
 			"name": "Terrel Allen",
 			"location": "https://raw.githubusercontent.com/terrelsa13/Device-Mirror-Plus/master/repository.json"
+		},
+     		{
+			"name": "Steven Barcus",
+			"location": "https://raw.githubusercontent.com/srbarcus/YoLink/master/repository.json"
 		}
 	],
 	"hpm": {

@@ -447,6 +447,10 @@
      		{
 			"name": "Steven Barcus",
 			"location": "https://raw.githubusercontent.com/srbarcus/YoLink/master/repository.json"
+		},
+     		{
+			"name": "Mike Bishop",
+			"location": "https://raw.githubusercontent.com/MikeBishop/hpm-intermediate/main/hpm-intermediate.json"
 		}
 	],
 	"hpm": {

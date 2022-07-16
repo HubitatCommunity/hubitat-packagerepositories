@@ -382,7 +382,7 @@
 		},
 		{
 			"name": "Community Code",
-			"location": "http://hpm.hubitatcommunity.com/communityrepo.json"
+			"location": "https://www.hubitatcommunity.com/hpm/communityrepo.json"
 		},
 		{
 			"name": "James Shimota (Shumo)",

@@ -451,6 +451,10 @@
      		{
 			"name": "Mike Bishop",
 			"location": "https://raw.githubusercontent.com/MikeBishop/hpm-intermediate/main/hpm-intermediate.json"
+		},
+		{
+			"name": "dJOS",
+			"location": "https://raw.githubusercontent.com/dJOS1475/Hubitat_WU_Driver/main/packageManifest.json"
 		}
 	],
 	"hpm": {

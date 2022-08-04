@@ -7,7 +7,7 @@
 		{
 			"name": "Victor Santana (Welasco)",
 			"location": "https://raw.githubusercontent.com/Welasco/hubitat/master/repository.json"
-		},		
+		},
 		{
 			"name": "Ramdev Shallem",
 			"location": "https://raw.githubusercontent.com/gilshallem/Hubitat/main/HPM/repositories.json"
@@ -316,21 +316,21 @@
 			"name": "ymerj",
 			"location": "https://raw.githubusercontent.com/ymerj/hpm/main/repository.json"
 		},
-		{ 
+		{
 			"name": "Jean P. May, Jr.",
 			"location": "https://raw.githubusercontent.com/thebearmay/hubitat/main/thebearmayRepository.json"
 		},
 		{
 			"name": "Michael van Dam",
-			"location": "https://raw.githubusercontent.com/michaelvandam/Hubitat/master/repository.json" 
+			"location": "https://raw.githubusercontent.com/michaelvandam/Hubitat/master/repository.json"
 		},
 		{
 			"name": "Snell",
-			"location": "https://www.drdsnell.com/projects/hubitat/drivers/SnellRepository.json" 
+			"location": "https://www.drdsnell.com/projects/hubitat/drivers/SnellRepository.json"
 		},
     		{
 			"name": "Vincent van Didden (@Vincentiano)",
-			"location": "https://raw.githubusercontent.com/Vincentiano/Hubitat-Repositories/main/repository.json" 
+			"location": "https://raw.githubusercontent.com/Vincentiano/Hubitat-Repositories/main/repository.json"
     		},
    		 {
 			"name": "Awth Wathje",
@@ -422,7 +422,7 @@
 		},
 		{
 			"name": "Samuel C Auclair",
-			"location": "https://raw.githubusercontent.com/sacua/SinopeDriverHubitat/main/repository.json"			
+			"location": "https://raw.githubusercontent.com/sacua/SinopeDriverHubitat/main/repository.json"
 		},
 		{
 			"name": "Josh Rosenberg",
@@ -455,6 +455,10 @@
 		{
 			"name": "dJOS",
 			"location": "https://raw.githubusercontent.com/dJOS1475/Hubitat_WU_Driver/main/repository.json"
+		},
+		{
+			"name": "Sebastian YEPES (syepes)",
+			"location": "https://raw.githubusercontent.com/syepes/Hubitat/master/repository.json"
 		}
 	],
 	"hpm": {

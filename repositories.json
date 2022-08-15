@@ -455,6 +455,10 @@
 		{
 			"name": "dJOS",
 			"location": "https://raw.githubusercontent.com/dJOS1475/Hubitat_WU_Driver/main/repository.json"
+		},
+		{
+			"name": "Sebastian YEPES (syepes)",
+			"location": "https://raw.githubusercontent.com/syepes/Hubitat/master/repository.json"
 		}
 	],
 	"hpm": {

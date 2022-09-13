@@ -459,6 +459,10 @@
 		{
 			"name": "Sebastian YEPES (syepes)",
 			"location": "https://raw.githubusercontent.com/syepes/Hubitat/master/repository.json"
+		},
+		{
+			"name": "Mavrrick",
+			"location": "https://raw.githubusercontent.com/Mavrrick/Hubitat-by-Mavrrick/main/repository.json"
 		}
 	],
 	"hpm": {

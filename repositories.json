@@ -463,6 +463,10 @@
 		{
 			"name": "Mavrrick",
 			"location": "https://raw.githubusercontent.com/Mavrrick/Hubitat-by-Mavrrick/main/repository.json"
+		},
+		{
+			"name": "Art Ardolino",
+			"location": "https://raw.githubusercontent.com/ajardolino3/hubitat-ajardolino3/master/repository.json"
 		}
 	],
 	"hpm": {

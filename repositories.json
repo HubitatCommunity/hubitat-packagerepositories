@@ -464,6 +464,10 @@
 			"name": "Mavrrick",
 			"location": "https://raw.githubusercontent.com/Mavrrick/Hubitat-by-Mavrrick/main/repository.json"
 		}
+		{
+			"name": "Ryan Elliott (FriedCheese2006)",
+			"location": "https://raw.githubusercontent.com/FriedCheese2006/RLE_Hubitat/main/RLE_repo.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"

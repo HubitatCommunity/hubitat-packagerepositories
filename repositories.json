@@ -471,6 +471,10 @@
 		{
 			"name": "Ryan Elliott (FriedCheese2006)",
 			"location": "https://raw.githubusercontent.com/FriedCheese2006/RLE_Hubitat/main/RLE_repo.json"
+		},
+		{
+			"name": "TheMaster",
+			"location": "https://raw.githubusercontent.com/tmastersmart/hubitat-code/main/packages/repository.json"
 		}
 	],
 	"hpm": {

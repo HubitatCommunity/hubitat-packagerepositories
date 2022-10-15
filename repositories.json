@@ -475,6 +475,10 @@
 		{
 			"name": "TheMaster",
 			"location": "https://raw.githubusercontent.com/tmastersmart/hubitat-code/main/packages/repository.json"
+		},
+		{
+			"name": "Greg Billings",
+			"location": "https://raw.githubusercontent.com/diosadentro/Hubitat/main/repository.json"
 		}
 	],
 	"hpm": {

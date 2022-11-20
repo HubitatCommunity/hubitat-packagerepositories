@@ -475,6 +475,10 @@
 		{
 			"name": "Greg Billings",
 			"location": "https://raw.githubusercontent.com/diosadentro/Hubitat/main/repository.json"
+		},
+		{
+			"name": "Kris Linquist",
+			"location": "https://raw.githubusercontent.com/klinquist/hubitat-packages/main/repository.json"
 		}
 	],
 	"hpm": {

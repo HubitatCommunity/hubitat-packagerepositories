@@ -479,6 +479,10 @@
 		{
 			"name": "Kris Linquist",
 			"location": "https://raw.githubusercontent.com/klinquist/hubitat-packages/main/repository.json"
+		},
+		{
+			"name": "Jean Bilodeau",
+			"location": "https://raw.githubusercontent.com/jbilodea/Hubitat/main/master/repository.json"
 		}
 	],
 	"hpm": {

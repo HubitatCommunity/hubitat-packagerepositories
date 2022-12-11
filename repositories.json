@@ -483,6 +483,14 @@
 		{
 			"name": "Jean Bilodeau",
 			"location": "https://raw.githubusercontent.com/jbilodea/Hubitat/main/master/repository.json"
+		},
+		{
+			"name": "jkister",
+			"location": "https://raw.githubusercontent.com/jkister/hubitat/master/repositories.json"
+		},
+		{
+			"name": "Patrick Wogan",
+			"location": "https://raw.githubusercontent.com/wogapat/HubitatApps/main/repository.json"
 		}
 	],
 	"hpm": {

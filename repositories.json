@@ -491,6 +491,10 @@
 		{
 			"name": "Patrick Wogan",
 			"location": "https://raw.githubusercontent.com/wogapat/HubitatApps/main/repository.json"
+		},
+		{
+			"name": "Andrew Webster",
+			"location": "https://raw.githubusercontent.com/Andywebs/hubitat/main/repository.json"
 		}
 	],
 	"hpm": {

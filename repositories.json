@@ -491,6 +491,10 @@
 		{
 			"name": "Patrick Wogan",
 			"location": "https://raw.githubusercontent.com/wogapat/HubitatApps/main/repository.json"
+		},
+		{
+			"name": "Jonathan Bradshaw",
+			"location": "https://raw.githubusercontent.com/bradsjm/hubitat-drivers/main/repository.json"
 		}
 	],
 	"hpm": {

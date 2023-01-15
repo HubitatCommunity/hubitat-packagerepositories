@@ -499,6 +499,10 @@
 		{
 			"name": "Jonathan Bradshaw",
 			"location": "https://raw.githubusercontent.com/bradsjm/hubitat-drivers/main/repository.json"
+		},
+		{
+			"name": "KTriponis",
+			"location": "https://raw.githubusercontent.com/ktriponis/hubitat-packages/main/repository.json"
 		}
 	],
 	"hpm": {

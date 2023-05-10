@@ -511,6 +511,10 @@
 		{
 			"name": "Bloodtick Jones",
 			"location": "https://raw.githubusercontent.com/bloodtick/Hubitat/main/hubitat-packages/repository.json"
+		},
+		{
+			"name": "Joe Page",
+			"location": "https://raw.githubusercontent.com/jpage4500/hubitat-drivers/master/repository.json"
 		}
 	],
 	"hpm": {

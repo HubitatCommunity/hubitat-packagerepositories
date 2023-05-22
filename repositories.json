@@ -515,6 +515,10 @@
 		{
 			"name": "Joe Page",
 			"location": "https://raw.githubusercontent.com/jpage4500/hubitat-drivers/master/repository.json"
+		},
+		{
+			"name": "Dan Danache",
+			"location": "https://raw.githubusercontent.com/dan-danache/hubitat/master/repository.json"
 		}
 	],
 	"hpm": {

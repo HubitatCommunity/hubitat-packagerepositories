@@ -520,6 +520,10 @@
 			"name": "Dan Danache",
 			"location": "https://raw.githubusercontent.com/dan-danache/hubitat/master/repository.json"
 		}
+		{
+			"name": "Paul Hutton",
+			"location": "https://raw.githubusercontent.com/VeloWulf/hubitat-packages/main/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"

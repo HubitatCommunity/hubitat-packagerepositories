@@ -519,6 +519,14 @@
 		{
 			"name": "Dan Danache",
 			"location": "https://raw.githubusercontent.com/dan-danache/hubitat/master/repository.json"
+		},
+		{
+			"name": "Paul Hutton",
+			"location": "https://raw.githubusercontent.com/VeloWulf/hubitat-packages/main/repository.json"
+		},
+		{
+			"name": "Hugo Haas",
+			"location": "https://raw.githubusercontent.com/hugoh/hubitat-packages/master/repository.json"
 		}
 	],
 	"hpm": {

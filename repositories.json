@@ -529,6 +529,10 @@
 			"location": "https://raw.githubusercontent.com/hugoh/hubitat-packages/master/repository.json"
 		},
 		{
+			"name": "Schwark Satyavolu",
+			"location": "https://raw.githubusercontent.com/schwark/hubitat-packages/main/repository.json"
+		},
+		{
 			"name": "Brian Blank",
 			"location": "https://raw.githubusercontent.com/brianblank/HubitatHaywardAquaConnect/main/hpm/repository.json"
 		}

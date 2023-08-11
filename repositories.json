@@ -535,6 +535,10 @@
 		{
 			"name": "Schwark Satyavolu",
 			"location": "https://raw.githubusercontent.com/schwark/hubitat-packages/main/repository.json"
+		},
+		{
+			"name": "Yonatan Striem Amit",
+			"location": "https://raw.githubusercontent.com/yonatan-mitmit/hubitat-repository/main/repository.json"
 		}
 	],
 	"hpm": {

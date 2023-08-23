@@ -539,6 +539,10 @@
 		{
 			"name": "Yonatan Striem Amit",
 			"location": "https://raw.githubusercontent.com/yonatan-mitmit/hubitat-repository/main/repository.json"
+		},
+		{
+			"name": "Ken Washington",
+			"location": "https://raw.githubusercontent.com/kewashi/HubitatPackages/master/repository.json"
 		}
 	],
 	"hpm": {

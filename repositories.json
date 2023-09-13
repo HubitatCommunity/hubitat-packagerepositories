@@ -547,6 +547,10 @@
 		{
 			"name": "Matthew Petro",
 			"location": "https://raw.githubusercontent.com/matthewpetro/hubitat-projects/main/repository.json"
+		},
+		{
+			"name": "wecoyote5",
+			"location": "https://raw.githubusercontent.com/wecoyote5/hubitat-MyProjects/main/repository.json"
 		}
 	],
 	"hpm": {

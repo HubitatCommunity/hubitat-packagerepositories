@@ -551,6 +551,10 @@
 		{
 			"name": "wecoyote5",
 			"location": "https://raw.githubusercontent.com/wecoyote5/hubitat-MyProjects/main/repository.json"
+		},
+		{
+			"name": "Josh Lobe (@joshlobe)",
+			"location": "https://raw.githubusercontent.com/joshlobe/hubitat/main/repository.json"
 		}
 	],
 	"hpm": {

@@ -385,10 +385,6 @@
 			"location": "https://raw.githubusercontent.com/jshimota01/hubitat/main/repository.json"
 		},
 		{
-			"name": "Jake Lehner",
-			"location": "https://raw.githubusercontent.com/jakelehner/Hubitat/master/repositories.json"
-		},
-		{
 			"name": "Eduardo Simioni",
 			"location": "https://raw.githubusercontent.com/esimioni/lutron-aurora-hubitat/main/hpm/repository.json"
 		},
@@ -555,6 +551,18 @@
 		{
 			"name": "Josh Lobe (@joshlobe)",
 			"location": "https://raw.githubusercontent.com/joshlobe/hubitat/main/repository.json"
+		},
+		{
+			"name": "GarthDB",
+			"location": "https://gist.githubusercontent.com/GarthDB/33d2febcf39ecfae25a49b3230fb2be7/raw/10ba85fc9694979702ab92814b398307cfdd52b4/repositories.json"
+		},
+		{
+			"name": "Jonathan Fields",
+			"location": "https://raw.githubusercontent.com/fieldsjm/Hubitat-2/master/repository.json"
+		},
+		{
+			"name": "Yonatan Striem Amit",
+			"location": "https://raw.githubusercontent.com/yonatan-mitmit/hubitat-repository/main/repository.json"
 		}
 	],
 	"hpm": {

@@ -559,10 +559,6 @@
 		{
 			"name": "Jonathan Fields",
 			"location": "https://raw.githubusercontent.com/fieldsjm/Hubitat-2/master/repository.json"
-		},
-		{
-			"name": "Yonatan Striem Amit",
-			"location": "https://raw.githubusercontent.com/yonatan-mitmit/hubitat-repository/main/repository.json"
 		}
 	],
 	"hpm": {

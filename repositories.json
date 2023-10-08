@@ -559,6 +559,10 @@
 		{
 			"name": "Jonathan Fields",
 			"location": "https://raw.githubusercontent.com/fieldsjm/Hubitat-2/master/repository.json"
+		},
+		{
+			"name": "Dan Healy (TheDanHealy)",
+			"location": "https://raw.githubusercontent.com/TheDanHealy/hubitat-rental-automator/main/repositories.json"
 		}
 	],
 	"hpm": {

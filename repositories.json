@@ -563,6 +563,10 @@
 		{
 			"name": "Dan Healy (TheDanHealy)",
 			"location": "https://raw.githubusercontent.com/TheDanHealy/hubitat-rental-automator/main/repositories.json"
+		},
+		{
+			"name": "tinkorswim",
+			"location": "https://raw.githubusercontent.com/tinkorswim/hubitat-hpm-repository/main/repository.json"
 		}
 	],
 	"hpm": {

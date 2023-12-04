@@ -567,6 +567,14 @@
 		{
 			"name": "tinkorswim",
 			"location": "https://raw.githubusercontent.com/tinkorswim/hubitat-hpm-repository/main/repository.json"
+		},
+		{
+			"name": "Konnected",
+			"location": "https://raw.githubusercontent.com/konnected-io/konnected-hubitat/master/hpm-repository.json"
+		},
+		{
+			"name": "Ben Jansen",
+			"location": "https://bitbucket.org/aogail/w007-hubitat-packages/raw/master/repository.json"
 		}
 	],
 	"hpm": {

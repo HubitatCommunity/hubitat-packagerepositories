@@ -1,6 +1,10 @@
 {
 	"repositories": [
 		{
+			"name": "edasque",
+			"location": "https://raw.githubusercontent.com/edasque/hubitat/main/repository.json"
+		},
+		{
 			"name": "dman2306",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"
 		},

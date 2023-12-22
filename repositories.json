@@ -575,6 +575,10 @@
 		{
 			"name": "Ben Jansen",
 			"location": "https://bitbucket.org/aogail/w007-hubitat-packages/raw/master/repository.json"
+		},
+		{
+			"name": "edasque",
+			"location": "https://raw.githubusercontent.com/edasque/hubitat/main/repository.json"
 		}
 	],
 	"hpm": {

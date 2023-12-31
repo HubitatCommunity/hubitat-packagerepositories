@@ -1,6 +1,10 @@
 {
 	"repositories": [
 		{
+			"name":"Rene Boer",
+  			"location": "https://raw.githubusercontent.com/reneboer/Hubitat/main/hpm/respository.json"
+		},
+		{
 			"name": "dman2306",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"
 		},

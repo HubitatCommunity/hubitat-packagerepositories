@@ -584,6 +584,10 @@
 			"name": "Lyle Pakula (@lpakula)",
 			"location": "https://raw.githubusercontent.com/wir3z/hubitat/main/repository.json"
 		}
+		{
+			"name": "Tom Schmidt",
+			"location": "https://raw.githubusercontent.com/trs56/HubitatPublict/main/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"

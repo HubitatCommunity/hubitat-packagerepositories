@@ -587,6 +587,10 @@
 		{
 			"name":"Rene Boer",
   			"location": "https://raw.githubusercontent.com/reneboer/Hubitat/main/hpm/respository.json"
+		},
+		{
+			"name": "Tom Schmidt",
+			"location": "https://raw.githubusercontent.com/trs56/HubitatPublict/main/repository.json"
 		}
 	],
 	"hpm": {

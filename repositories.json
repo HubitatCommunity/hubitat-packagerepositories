@@ -591,6 +591,10 @@
 		{
 			"name": "Tom Schmidt",
 			"location": "https://raw.githubusercontent.com/trs56/HubitatPublict/main/repository.json"
+		},
+		{
+			"name": "Daniel Winks",
+			"location": "https://raw.githubusercontent.com/DanielWinks/Hubitat-Public/main/repository.json"
 		}
 	],
 	"hpm": {

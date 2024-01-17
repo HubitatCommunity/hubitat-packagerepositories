@@ -595,6 +595,10 @@
 		{
 			"name": "Daniel Winks",
 			"location": "https://raw.githubusercontent.com/DanielWinks/Hubitat-Public/main/repository.json"
+		},
+		{
+			"name": "Maxime Boissonneault",
+			"location": "https://raw.githubusercontent.com/mboisson/Hubitat/main/repository.json"
 		}
 	],
 	"hpm": {

@@ -273,10 +273,6 @@
 			"location": "https://raw.githubusercontent.com/drenze/hubitat/main/repository.json"
 		},
 		{
-			"name": "JVM (@jvm33)",
-			"location": "https://raw.githubusercontent.com/jvmahon/HubitatCustom/main/repository.json"
-		},
-		{
 			"name": "akhandok",
 			"location": "https://raw.githubusercontent.com/akhandok/adhanPlayer/master/repository.json"
 		},

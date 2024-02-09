@@ -595,7 +595,11 @@
 		{
 			"name": "Daniel Winks",
 			"location": "https://raw.githubusercontent.com/DanielWinks/Hubitat-Public/main/repository.json"
-		}
+		},
+        {
+            "name": "ShellyUSA",
+            "location": "https://raw.githubusercontent.com/ShellyUSA/Hubitat-Drivers/master/repository.json"
+        }
 
 	],
 	"hpm": {

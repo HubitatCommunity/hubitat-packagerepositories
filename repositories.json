@@ -320,11 +320,11 @@
 			"name": "Snell",
 			"location": "https://www.drdsnell.com/projects/hubitat/drivers/SnellRepository.json"
 		},
-    		{
+		{
 			"name": "Vincent van Didden (@Vincentiano)",
 			"location": "https://raw.githubusercontent.com/Vincentiano/Hubitat-Repositories/main/repository.json"
-    		},
-   		 {
+		},
+		{
 			"name": "Awth Wathje",
 			"location": "https://raw.githubusercontent.com/awthwathje/hubitat-heatit-z-push-button-8-driver/main/repository.json"
 		},
@@ -432,11 +432,11 @@
 			"name": "Terrel Allen",
 			"location": "https://raw.githubusercontent.com/terrelsa13/Device-Mirror-Plus/master/repository.json"
 		},
-     		{
+		{
 			"name": "Steven Barcus",
 			"location": "https://raw.githubusercontent.com/srbarcus/YoLink/master/repository.json"
 		},
-     		{
+		{
 			"name": "Mike Bishop",
 			"location": "https://raw.githubusercontent.com/MikeBishop/hpm-intermediate/main/hpm-intermediate.json"
 		},
@@ -493,8 +493,8 @@
 			"location": "https://raw.githubusercontent.com/bradsjm/hubitat-drivers/main/repository.json"
 		},
 		{
-		        "name": "JoKneeMo",
-		        "location": "https://raw.githubusercontent.com/JoKneeMo/hubitat/main/repository.json"
+			"name": "JoKneeMo",
+			"location": "https://raw.githubusercontent.com/JoKneeMo/hubitat/main/repository.json"
 		},
 		{
 			"name": "KTriponis",
@@ -581,8 +581,8 @@
 			"location": "https://raw.githubusercontent.com/wir3z/hubitat/main/repository.json"
 		},
 		{
-			"name":"Rene Boer",
-  			"location": "https://raw.githubusercontent.com/reneboer/Hubitat/main/hpm/respository.json"
+			"name": "Rene Boer",
+			"location": "https://raw.githubusercontent.com/reneboer/Hubitat/main/hpm/respository.json"
 		},
 		{
 			"name": "Tom Schmidt",
@@ -596,10 +596,10 @@
 			"name": "Maxime Boissonneault",
 			"location": "https://raw.githubusercontent.com/mboisson/Hubitat/main/repository.json"
 		},
-    {
-        "name": "ShellyUSA",
-        "location": "https://raw.githubusercontent.com/ShellyUSA/Hubitat-Drivers/master/repository.json"
-    }
+		{
+			"name": "ShellyUSA",
+			"location": "https://raw.githubusercontent.com/ShellyUSA/Hubitat-Drivers/master/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"

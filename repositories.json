@@ -595,6 +595,10 @@
 		{
 			"name": "Maxime Boissonneault",
 			"location": "https://raw.githubusercontent.com/mboisson/Hubitat/main/repository.json"
+		},
+		{
+			"name": "Jaime Botero",
+			"location": "https://raw.githubusercontent.com/ljbotero/hubitat-flair-vents/main/repository.json"
 		}
 	],
 	"hpm": {

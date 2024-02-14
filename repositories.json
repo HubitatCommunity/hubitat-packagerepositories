@@ -595,6 +595,10 @@
 		{
 			"name": "Maxime Boissonneault",
 			"location": "https://raw.githubusercontent.com/mboisson/Hubitat/main/repository.json"
+		},
+		{
+			"name": "Adrian Caramaliu",
+			"location": "https://raw.githubusercontent.com/ady624/hubitat-freestyle-libre/master/repository.json"
 		}
 	],
 	"hpm": {

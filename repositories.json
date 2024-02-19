@@ -607,6 +607,10 @@
 		{
 			"name": "Adrian Caramaliu",
 			"location": "https://raw.githubusercontent.com/ady624/hubitat-hpm/master/repository.json"
+		},
+		{
+			"name": "Pentalingual",
+			"location": "https://raw.githubusercontent.com/pentalingual/Hubitat/main/repository.json"
 		}
 	],
 	"hpm": {

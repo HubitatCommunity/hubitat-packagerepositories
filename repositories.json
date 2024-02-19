@@ -595,6 +595,18 @@
 		{
 			"name": "Maxime Boissonneault",
 			"location": "https://raw.githubusercontent.com/mboisson/Hubitat/main/repository.json"
+		},
+		{
+			"name": "ShellyUSA",
+			"location": "https://raw.githubusercontent.com/ShellyUSA/Hubitat-Drivers/master/repository.json"
+		},
+		{
+			"name": "Jaime Botero",
+			"location": "https://raw.githubusercontent.com/ljbotero/hubitat-flair-vents/main/repository.json"
+		},
+		{
+			"name": "Adrian Caramaliu",
+			"location": "https://raw.githubusercontent.com/ady624/hubitat-hpm/master/repository.json"
 		}
 	],
 	"hpm": {

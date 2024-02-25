@@ -611,6 +611,9 @@
 		{
 			"name": "Pentalingual",
 			"location": "https://raw.githubusercontent.com/pentalingual/Hubitat/main/repository.json"
+		},
+		{	"name": "LinptechES1",
+			"location": "https://raw.githubusercontent.com/csteele-PD/Hubitat-public/master/linptechRepo.json"
 		}
 	],
 	"hpm": {

@@ -619,6 +619,10 @@
 		{
 			"name": "Steven Dale",
 			"location": "https://raw.githubusercontent.com/tmleafs/hubitat-packages/main/repository.json"
+		},
+		{
+			"name": "Vartan Horigian",
+			"location": "https://raw.githubusercontent.com/hhorigian/mainfiles/main/repository.json"
 		}
 	],
 	"hpm": {

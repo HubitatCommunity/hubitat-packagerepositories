@@ -625,8 +625,8 @@
 			"location": "https://raw.githubusercontent.com/hhorigian/mainfiles/main/repository.json"
 		},
 		{
-			"name": "wesmc",
-			"location": "https://github.com/WesleyMConner/HpmNavigation/blob/main/hpmRepository.json"
+			"name": "Wesley M. Conner",
+			"location": "https://raw.githubusercontent.com/WesleyMConner/HpmNavigation/main/repository.json"
 		}
 	],
 	"hpm": {

@@ -627,6 +627,10 @@
 		{
 			"name": "Wesley M. Conner",
 			"location": "https://raw.githubusercontent.com/WesleyMConner/HpmNavigation/main/repository.json"
+		},
+		{
+			"name": "Eric Meddaugh",
+			"location": "https://raw.githubusercontent.com/x86cpu/hubitat/main/repository.json"
 		}
 	],
 	"hpm": {

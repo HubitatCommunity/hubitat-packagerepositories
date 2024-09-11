@@ -631,6 +631,10 @@
 		{
 			"name": "Eric Meddaugh",
 			"location": "https://raw.githubusercontent.com/x86cpu/hubitat/main/repository.json"
+		},
+		{
+			"name": "Tim Dodd",
+			"location": "https://raw.githubusercontent.com/timothydodd/hubitat-acurite-mqtt/main/repository.json"
 		}
 	],
 	"hpm": {

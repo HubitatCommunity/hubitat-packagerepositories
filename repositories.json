@@ -2,7 +2,7 @@
 	"repositories": [
 		{
 			"name": "Graf Technology, LLC",
-			"location": "https://raw.githubusercontent.com/jacobgraf/hpm-repository/main/repository.json"
+			"location": "https://raw.githubusercontent.com/graftechnology/hubitat-hpm-repository/main/repository.json"
 		},
 		{
 			"name": "dman2306",

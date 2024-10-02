@@ -635,7 +635,11 @@
 		{
 			"name": "Tim Dodd",
 			"location": "https://raw.githubusercontent.com/timothydodd/hubitat-acurite-mqtt/main/repository.json"
-		}
+		},
+		{
+			"name": "Graf Technology, LLC",
+			"location": "https://raw.githubusercontent.com/graftechnology/hubitat-hpm-repository/main/repository.json"
+		}		
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"

@@ -639,6 +639,14 @@
 		{
 			"name": "Graf Technology, LLC",
 			"location": "https://raw.githubusercontent.com/graftechnology/hubitat-hpm-repository/main/repository.json"
+		},
+		{
+			"name": "corinuss",
+			"location": "https://raw.githubusercontent.com/corinuss/Hubitat_IntelliFire/main/repository.json"
+		},
+		{
+			"name": "Evan Callia",
+			"location": "https://raw.githubusercontent.com/evcallia/hubitat/refs/heads/main/hpm-repository.json"
 		}		
 	],
 	"hpm": {

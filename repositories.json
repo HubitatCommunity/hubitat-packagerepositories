@@ -647,7 +647,11 @@
 		{
 			"name": "Kurt Sanders (kurtsanders)",
 			"location": "https://raw.githubusercontent.com/KurtSanders/HubitatPackages/master/repository.json"
-		}		
+		},
+		{
+			"name": "StarkTemplar",
+			"location": "https://raw.githubusercontent.com/StarkTemplar/Hubitat/main/repository.json"
+		}	
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"

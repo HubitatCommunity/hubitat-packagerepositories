@@ -506,7 +506,7 @@
 		},
 		{
 			"name": "Dan Danache",
-			"location": "https://raw.githubusercontent.com/dan-danache/hubitat/master/repository.json"
+			"location": "https://codeberg.org/dan-danache/hubitat/raw/branch/main/repository.json"
 		},
 		{
 			"name": "Paul Hutton",

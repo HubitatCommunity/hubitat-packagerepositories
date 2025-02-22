@@ -655,6 +655,10 @@
 		{
 			"name": "Randall Norviel",
 			"location": "https://raw.githubusercontent.com/randalln/randalln-hubitat/main/repository.json"
+		},
+		{
+			"name": "WalksOnAir",
+			"url": "https://raw.githubusercontent.com/walksonair/Hubitat-Pi-hole-Virtual-Switch/main/repository.json"
 		}	
 	],
 	"hpm": {

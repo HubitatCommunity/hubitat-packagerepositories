@@ -659,7 +659,11 @@
 		{
 			"name": "WalksOnAir",
 			"location": "https://raw.githubusercontent.com/walksonair/Hubitat-Pi-hole-Virtual-Switch/main/repository.json"
-		}	
+		},
+		{
+			"name": "jdc72",
+			"location": "https://raw.githubusercontent.com/jdc72/Hubitat/main/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"

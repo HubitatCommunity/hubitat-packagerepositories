@@ -663,6 +663,10 @@
 		{
 			"name": "jdc72",
 			"location": "https://raw.githubusercontent.com/jdc72/Hubitat/main/repository.json"
+		},
+		{
+			"name":"Megamind",
+			"location":"https://raw.githubusercontent.com/TheMegamind/Hubitat/main/hubitat-packages/repository.json"
 		}
 	],
 	"hpm": {

@@ -667,7 +667,11 @@
 		{
 			"name":"Megamind",
 			"location":"https://raw.githubusercontent.com/TheMegamind/Hubitat/main/hubitat-packages/repository.json"
-		}
+		},
+		{
+			"name":"Scott Wade (swade)",
+			"location":"https://raw.githubusercontent.com/DolFan81/DeviceTemperatureCheck/refs/heads/main/dtcManifest.json"
+		}		
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"

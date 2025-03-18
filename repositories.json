@@ -670,7 +670,7 @@
 		},
 		{
 			"name":"Scott Wade (swade)",
-			"location":"https://raw.githubusercontent.com/DolFan81/DeviceTemperatureCheck/refs/heads/main/dtcManifest.json"
+			"location":"https://raw.githubusercontent.com/DolFan81/hubitat-packages/refs/heads/main/sWadeRepository.json"
 		}		
 	],
 	"hpm": {

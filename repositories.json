@@ -665,12 +665,12 @@
 			"location": "https://raw.githubusercontent.com/jdc72/Hubitat/main/repository.json"
 		},
 		{
-			"name":"Megamind",
-			"location":"https://raw.githubusercontent.com/TheMegamind/Hubitat/main/hubitat-packages/repository.json"
+			"name": "Megamind",
+			"location": "https://raw.githubusercontent.com/TheMegamind/Hubitat/main/hubitat-packages/repository.json"
 		},
 		{
-			"name":"Scott Wade (swade)",
-			"location":"https://raw.githubusercontent.com/DolFan81/hubitat-packages/refs/heads/main/sWadeRepository.json"
+			"name": "Scott Wade (swade)",
+			"location": "https://raw.githubusercontent.com/DolFan81/hubitat-packages/refs/heads/main/sWadeRepository.json"
 		}
 	],
 	"hpm": {

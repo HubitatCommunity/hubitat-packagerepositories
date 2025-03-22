@@ -671,6 +671,10 @@
 		{
 			"name": "Scott Wade (swade)",
 			"location": "https://raw.githubusercontent.com/DolFan81/hubitat-packages/refs/heads/main/sWadeRepository.json"
+		},
+		{
+			"name": "mrmikeface",
+			"location": "https://raw.githubusercontent.com/mrmikeface/hubitat-package-repo/main/repository.json"
 		}
 	],
 	"hpm": {

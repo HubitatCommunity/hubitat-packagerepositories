@@ -675,7 +675,11 @@
 		{
 			"name": "mrmikeface",
 			"location": "https://raw.githubusercontent.com/mrmikeface/hubitat-package-repo/main/repository.json"
-		}
+		},
+		{
+ 			 "name": "TechBill",
+ 			 "location": "https://raw.githubusercontent.com/TechBill/hubitat-packages/master/repos/techbill/repository.json"
+ 		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"

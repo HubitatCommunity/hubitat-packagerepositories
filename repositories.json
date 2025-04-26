@@ -679,6 +679,10 @@
 		{
  			 "name": "TechBill",
  			 "location": "https://raw.githubusercontent.com/TechBill/hubitat-packages/master/repos/techbill/repository.json"
+ 		},
+		{
+ 			 "name": "RamSet",
+ 			 "location": "https://raw.githubusercontent.com/RamSet/hubitat/main/repository.json"
  		}
 	],
 	"hpm": {

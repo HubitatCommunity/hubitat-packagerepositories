@@ -683,6 +683,10 @@
 		{
  			 "name": "RamSet",
  			 "location": "https://raw.githubusercontent.com/RamSet/hubitat/main/repository.json"
+ 		},
+ 		{
+ 			 "name": "ZoozCode",
+ 			 "location": "https://raw.githubusercontent.com/HubitatCommunity/ZoozCode/refs/heads/main/ZoozCode_repo.json"
  		}
 	],
 	"hpm": {

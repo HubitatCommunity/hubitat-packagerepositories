@@ -689,6 +689,10 @@
  			 "location": "https://raw.githubusercontent.com/HubitatCommunity/ZoozCode/refs/heads/main/ZoozCode_repo.json"
  		},
 		{
+ 			 "name": "Boguslaw Wojcik (@bogus.wojcik)",
+ 			 "location": "https://raw.githubusercontent.com/boguslaw-wojcik/hubitat/main/repository.json"
+		},
+		{
 			"name": "ke7lvb",
 			"location": "https://raw.githubusercontent.com/ke7lvb/ke7lvb/refs/heads/main/repository.json"
 		},

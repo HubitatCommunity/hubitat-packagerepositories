@@ -699,6 +699,10 @@
 		{
   			"name": "Jeffrey Zimmerman's Hubitat Apps",
   			"location": "https://raw.githubusercontent.com/JeffreyZimms/Home-Environment-Aggregator/main/repository.json"
+  		},
+		{
+			"name": "spinrag",
+			"location": "https://raw.githubusercontent.com/spinrag/hubitat/main/repository.json"
   		}
 	],
 	"hpm": {

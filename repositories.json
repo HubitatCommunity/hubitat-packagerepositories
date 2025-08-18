@@ -261,8 +261,8 @@
 			"location": "https://raw.githubusercontent.com/viertaxa/hubitat/main/.hpm/repository.json"
 		},
 		{
-			"name": "BirdsLikeWires (@birdslikewires)",
-			"location": "https://raw.githubusercontent.com/birdslikewires/hubitat/master/repository.json"
+			"name": "BirdsLikeWires (@andy@dvsn.net)",
+			"location": "https://raw.githubusercontent.com/birdslikewires/hubitat/main/repository.json"
 		},
 		{
 			"name": "Doug Renze (@darthbob)",
@@ -703,6 +703,10 @@
 		{
 			"name": "spinrag",
 			"location": "https://raw.githubusercontent.com/spinrag/hubitat/main/repository.json"
+		},
+		{
+			"name": "SORS",
+			"location": "https://raw.githubusercontent.com/sorsme/sinope-switch/main/repository.json"
   		}
 	],
 	"hpm": {

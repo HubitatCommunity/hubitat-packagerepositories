@@ -703,6 +703,10 @@
 		{
 			"name": "spinrag",
 			"location": "https://raw.githubusercontent.com/spinrag/hubitat/main/repository.json"
+		},
+		{
+			"name": "SORS",
+			"location": "https://raw.githubusercontent.com/sorsme/sinope-switch/main/repository.json"
   		}
 	],
 	"hpm": {

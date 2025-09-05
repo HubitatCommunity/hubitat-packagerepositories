@@ -707,6 +707,10 @@
 		{
 			"name": "SORS",
 			"location": "https://raw.githubusercontent.com/sorsme/sinope-switch/main/repository.json"
+ 		},
+		{
+			"name": "jonozzz",
+			"location": "https://raw.githubusercontent.com/jonozzz/hubitat-thinqconnect/refs/heads/main/repository.json"
   		}
 	],
 	"hpm": {

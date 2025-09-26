@@ -713,6 +713,10 @@
 			"location": "https://raw.githubusercontent.com/jonozzz/hubitat-thinqconnect/refs/heads/main/repository.json"
  		},
 		{
+    		"name": "Mathew Beall",
+      		"location": "https://raw.githubusercontent.com/mathewbeall/hubitat-resideo_T10-integration/main/repository.json"
+  		},
+		{
 			"name": "jschlackman",
 			"location": "https://raw.githubusercontent.com/jschlackman/Hubitat/main/repository.json"
   		}

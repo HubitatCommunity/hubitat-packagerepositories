@@ -715,6 +715,10 @@
 		{
 			"name": "jschlackman",
 			"location": "https://raw.githubusercontent.com/jschlackman/Hubitat/main/repository.json"
+		},
+		{
+			"name": "Mathew Beall",
+      		"location": "https://raw.githubusercontent.com/mathewbeall/hubitat-resideo_T10-integration/main/repository.json"
   		}
 	],
 	"hpm": {

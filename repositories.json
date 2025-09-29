@@ -716,12 +716,17 @@
 			"name": "jschlackman",
 			"location": "https://raw.githubusercontent.com/jschlackman/Hubitat/main/repository.json"
 		},
-		{
-			"name": "Mathew Beall",
-      		"location": "https://raw.githubusercontent.com/mathewbeall/hubitat-resideo_T10-integration/main/repository.json"
-  		}
-	],
-	"hpm": {
-		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"
-	}
+        {
+            "name": "Mathew Beall",
+            "location": "https://raw.githubusercontent.com/mathewbeall/hubitat-resideo_T10-integration/main/repository.json"
+        },
+        {
+            "name": "WarlockWeary",
+            "location": "https://raw.githubusercontent.com/Warlock-Weary/Light.Security.Monitor/main/repository.json"
+       }
+       ],
+    "hpm": {
+    "location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"
+  }
 }
+

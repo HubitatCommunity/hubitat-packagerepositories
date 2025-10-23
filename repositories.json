@@ -293,10 +293,6 @@
 			"location": "https://raw.githubusercontent.com/robheyes/hpm-packages/master/repository.json"
 		},
 		{
-			"name": "MHedish",
-			"location": "https://raw.githubusercontent.com/MHedish/Hubitat/main/repository.json"
-		},
-		{
 			"name": "droath",
 			"location": "https://raw.githubusercontent.com/droath/Hubitat/master/repository.json"
 		},
@@ -721,13 +717,13 @@
       		"location": "https://raw.githubusercontent.com/mathewbeall/hubitat-resideo_T10-integration/main/repository.json"
   		},
   		{
-    		"name": "obeisser",
-    		"location": "https://raw.githubusercontent.com/obeisser/hubitat-drivers/main/repository.json"
+    			"name": "obeisser",
+    			"location": "https://raw.githubusercontent.com/obeisser/hubitat-drivers/main/repository.json"
   		},
   		{
 			"name": "WarlockWeary",
 			"location": "https://raw.githubusercontent.com/Warlock-Weary/Light.Security.Monitor/main/repository.json"
-    	}
+    		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"

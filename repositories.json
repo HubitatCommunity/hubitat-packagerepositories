@@ -137,10 +137,6 @@
 			"location": "https://raw.githubusercontent.com/rsjaffe/Hubitat/master/repository.json"
 		},
 		{
-			"name": "Justin Walker (augoisms)",
-			"location": "https://raw.githubusercontent.com/augoisms/hubitat/master/repository.json"
-		},
-		{
 			"name": "Joel Wetzel",
 			"location": "https://raw.githubusercontent.com/joelwetzel/HubitatPackages/master/repository.json"
 		},

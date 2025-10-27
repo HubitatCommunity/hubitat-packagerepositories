@@ -7,7 +7,7 @@
 		{
 			"name": "Victor Santana (Welasco)",
 			"location": "https://raw.githubusercontent.com/Welasco/hubitat/master/repository.json"
-		},		
+		},
 		{
 			"name": "Ramdev Shallem",
 			"location": "https://raw.githubusercontent.com/gilshallem/Hubitat/main/HPM/repositories.json"
@@ -293,10 +293,6 @@
 			"location": "https://raw.githubusercontent.com/robheyes/hpm-packages/master/repository.json"
 		},
 		{
-			"name": "MHedish",
-			"location": "https://raw.githubusercontent.com/MHedish/Hubitat/main/repository.json"
-		},
-		{
 			"name": "droath",
 			"location": "https://raw.githubusercontent.com/droath/Hubitat/master/repository.json"
 		},
@@ -316,11 +312,11 @@
 			"name": "Snell",
 			"location": "https://www.drdsnell.com/projects/hubitat/drivers/SnellRepository.json" 
 		},
-    		{
+		{
 			"name": "Vincent van Didden (@Vincentiano)",
 			"location": "https://raw.githubusercontent.com/Vincentiano/Hubitat-Repositories/main/repository.json" 
-    		},
-   		 {
+		},
+		{
 			"name": "Awth Wathje",
 			"location": "https://raw.githubusercontent.com/awthwathje/hubitat-heatit-z-push-button-8-driver/main/repository.json"
 		},
@@ -406,7 +402,7 @@
 		},
 		{
 			"name": "Samuel C Auclair",
-			"location": "https://raw.githubusercontent.com/sacua/SinopeDriverHubitat/main/repository.json"			
+			"location": "https://raw.githubusercontent.com/sacua/SinopeDriverHubitat/main/repository.json"
 		},
 		{
 			"name": "Josh Rosenberg",
@@ -428,11 +424,11 @@
 			"name": "Terrel Allen",
 			"location": "https://raw.githubusercontent.com/terrelsa13/Device-Mirror-Plus/master/repository.json"
 		},
-     		{
+		{
 			"name": "Steven Barcus",
 			"location": "https://raw.githubusercontent.com/srbarcus/YoLink/master/repository.json"
 		},
-     		{
+		{
 			"name": "Mike Bishop",
 			"location": "https://raw.githubusercontent.com/MikeBishop/hpm-intermediate/main/hpm-intermediate.json"
 		},
@@ -489,8 +485,8 @@
 			"location": "https://raw.githubusercontent.com/bradsjm/hubitat-drivers/main/repository.json"
 		},
 		{
-		        "name": "JoKneeMo",
-		        "location": "https://raw.githubusercontent.com/JoKneeMo/hubitat/main/repository.json"
+			"name": "JoKneeMo",
+			"location": "https://raw.githubusercontent.com/JoKneeMo/hubitat/main/repository.json"
 		},
 		{
 			"name": "KTriponis",
@@ -578,7 +574,7 @@
 		},
 		{
 			"name":"Rene Boer",
-  			"location": "https://raw.githubusercontent.com/reneboer/Hubitat/main/hpm/respository.json"
+			"location": "https://raw.githubusercontent.com/reneboer/Hubitat/main/hpm/respository.json"
 		},
 		{
 			"name": "Tom Schmidt",
@@ -677,29 +673,29 @@
 			"location": "https://raw.githubusercontent.com/mrmikeface/hubitat-package-repo/main/repository.json"
 		},
 		{
- 			 "name": "TechBill",
- 			 "location": "https://raw.githubusercontent.com/TechBill/hubitat-packages/master/repos/techbill/repository.json"
- 		},
+			 "name": "TechBill",
+			 "location": "https://raw.githubusercontent.com/TechBill/hubitat-packages/master/repos/techbill/repository.json"
+		},
 		{
- 			 "name": "RamSet",
- 			 "location": "https://raw.githubusercontent.com/RamSet/hubitat/main/repository.json"
- 		},
- 		{
- 			 "name": "ZoozCode",
- 			 "location": "https://raw.githubusercontent.com/HubitatCommunity/ZoozCode/refs/heads/main/ZoozCode_repo.json"
- 		},
+			 "name": "RamSet",
+			 "location": "https://raw.githubusercontent.com/RamSet/hubitat/main/repository.json"
+		},
 		{
- 			 "name": "Boguslaw Wojcik (@bogus.wojcik)",
- 			 "location": "https://raw.githubusercontent.com/boguslaw-wojcik/hubitat/main/repository.json"
+			 "name": "ZoozCode",
+			 "location": "https://raw.githubusercontent.com/HubitatCommunity/ZoozCode/refs/heads/main/ZoozCode_repo.json"
+		},
+		{
+			 "name": "Boguslaw Wojcik (@bogus.wojcik)",
+			 "location": "https://raw.githubusercontent.com/boguslaw-wojcik/hubitat/main/repository.json"
 		},
 		{
 			"name": "ke7lvb",
 			"location": "https://raw.githubusercontent.com/ke7lvb/ke7lvb/refs/heads/main/repository.json"
 		},
 		{
-  			"name": "Jeffrey Zimmerman's Hubitat Apps",
-  			"location": "https://raw.githubusercontent.com/JeffreyZimms/Home-Environment-Aggregator/main/repository.json"
-  		},
+			"name": "Jeffrey Zimmerman's Hubitat Apps",
+			"location": "https://raw.githubusercontent.com/JeffreyZimms/Home-Environment-Aggregator/main/repository.json"
+		},
 		{
 			"name": "spinrag",
 			"location": "https://raw.githubusercontent.com/spinrag/hubitat/main/repository.json"
@@ -707,31 +703,27 @@
 		{
 			"name": "SORS",
 			"location": "https://raw.githubusercontent.com/sorsme/sinope-switch/main/repository.json"
- 		},
+		},
 		{
 			"name": "jonozzz",
 			"location": "https://raw.githubusercontent.com/jonozzz/hubitat-thinqconnect/refs/heads/main/repository.json"
- 		},
+		},
 		{
 			"name": "jschlackman",
 			"location": "https://raw.githubusercontent.com/jschlackman/Hubitat/main/repository.json"
 		},
 		{
 			"name": "Mathew Beall",
-      		"location": "https://raw.githubusercontent.com/mathewbeall/hubitat-resideo_T10-integration/main/repository.json"
-  		},
-  		{
-    			"name": "obeisser",
-    			"location": "https://raw.githubusercontent.com/obeisser/hubitat-drivers/main/repository.json"
-  		},
-  		{
-			"name": "WarlockWeary",
-    			"location": "https://raw.githubusercontent.com/Warlock-Weary/Light.Security.Monitor/main/repository.json"
-    		},
+			"location": "https://raw.githubusercontent.com/mathewbeall/hubitat-resideo_T10-integration/main/repository.json"
+		},
 		{
-			"name": "MHedish",
-			"location": "https://raw.githubusercontent.com/MHedish/Hubitat/main/repository.json"
-    		}
+			"name": "obeisser",
+			"location": "https://raw.githubusercontent.com/obeisser/hubitat-drivers/main/repository.json"
+		},
+		{
+			"name": "WarlockWeary",
+			"location": "https://raw.githubusercontent.com/Warlock-Weary/Light.Security.Monitor/main/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"

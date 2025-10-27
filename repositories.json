@@ -293,6 +293,10 @@
 			"location": "https://raw.githubusercontent.com/robheyes/hpm-packages/master/repository.json"
 		},
 		{
+			"name": "MHedish",
+			"location": "https://raw.githubusercontent.com/MHedish/Hubitat/main/repository.json"
+		},
+		{
 			"name": "droath",
 			"location": "https://raw.githubusercontent.com/droath/Hubitat/master/repository.json"
 		},

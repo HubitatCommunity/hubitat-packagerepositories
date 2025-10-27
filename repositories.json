@@ -726,7 +726,11 @@
   		},
   		{
 			"name": "WarlockWeary",
-            "location": "https://raw.githubusercontent.com/Warlock-Weary/Light.Security.Monitor/main/repository.json"
+    			"location": "https://raw.githubusercontent.com/Warlock-Weary/Light.Security.Monitor/main/repository.json"
+    		},
+		{
+			"name": "MHedish",
+			"location": "https://raw.githubusercontent.com/MHedish/Hubitat/main/repository.json"
     		}
 	],
 	"hpm": {

@@ -727,6 +727,10 @@
 		{
 			"name": "WarlockWeary",
 			"location": "https://raw.githubusercontent.com/Warlock-Weary/Light.Security.Monitor/main/repository.json"
+		},
+		{
+			"name": "vpsupun",
+			"location": "https://raw.githubusercontent.com/vpsupun/hubitat/master/repository.json"
 		}
 	],
 	"hpm": {

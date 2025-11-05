@@ -730,7 +730,7 @@
 		},
 		{
 			"name": "vpsupun",
-			"location": "https://raw.githubusercontent.com/vpsupun/hubitat/refs/heads/master/repository.json"
+			"location": "https://raw.githubusercontent.com/vpsupun/hubitat/master/repository.json"
 		}
 	],
 	"hpm": {

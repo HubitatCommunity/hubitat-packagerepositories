@@ -731,6 +731,10 @@
 		{
 			"name": "vpsupun",
 			"location": "https://raw.githubusercontent.com/vpsupun/hubitat/master/repository.json"
+		},
+		{
+			"name": "curtiside",
+			"location": "https://raw.githubusercontent.com/curtiside/oelo-lights-hubitat/main/repository.json"
 		}
 	],
 	"hpm": {

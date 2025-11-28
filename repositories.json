@@ -735,6 +735,10 @@
 		{
 			"name": "curtiside",
 			"location": "https://raw.githubusercontent.com/curtiside/oelo-lights-hubitat/main/repository.json"
+		},
+		{
+			"name": "Electrified-Home",
+			"location": "https://raw.githubusercontent.com/Electrified-Home/Hubitat-Advanced-Heliotrope/main/repository.json"
 		}
 	],
 	"hpm": {

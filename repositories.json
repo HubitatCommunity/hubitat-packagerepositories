@@ -277,10 +277,6 @@
 			"location": "https://raw.githubusercontent.com/amosyuen/hubitat/main/repository.json"
 		},
 		{
-			"name": "Jonathan Michaelson",
-			"location": "https://raw.githubusercontent.com/waytotheweb/hubitat/main/hpm.repository.json"
-		},
-		{
 			"name": "Matt Hammond",
 			"location": "https://raw.githubusercontent.com/matt-hammond-001/hubitat-code/master/hpm-repository.json"
 		},

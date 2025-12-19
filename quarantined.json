@@ -2,3 +2,7 @@
 		 	"name": "MHedish",
 			"location": "https://raw.githubusercontent.com/MHedish/Hubitat/main/repository.json"
 		},
+		{
+			"name": "Jonathan Michaelson",
+			"location": "https://raw.githubusercontent.com/waytotheweb/hubitat/main/hpm.repository.json"
+		},

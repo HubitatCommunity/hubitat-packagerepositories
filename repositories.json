@@ -738,7 +738,7 @@
 		},
 		{
 			"name": "Albert Mulder",
-			"location": "https://raw.githubusercontent.com/almulder/Hubitat-Drivers/hpm/repository.json"
+			"location": "https://raw.githubusercontent.com/almulder/Hubitat-Drivers/refs/heads/main/hpm/repository.json"
 		}
 	],
 	"hpm": {

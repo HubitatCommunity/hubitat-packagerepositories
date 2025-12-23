@@ -735,6 +735,10 @@
 		{
 			"name": "Electrified-Home",
 			"location": "https://raw.githubusercontent.com/Electrified-Home/Hubitat-Advanced-Heliotrope/main/repository.json"
+		},
+		{
+			"name": "Albert Mulder",
+			"location": "https://raw.githubusercontent.com/almulder/Hubitat-Drivers/hpm/repository.json"
 		}
 	],
 	"hpm": {

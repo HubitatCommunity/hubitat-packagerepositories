@@ -300,21 +300,21 @@
 			"name": "ymerj",
 			"location": "https://raw.githubusercontent.com/ymerj/hpm/main/repository.json"
 		},
-		{ 
+		{
 			"name": "Jean P. May, Jr.",
 			"location": "https://raw.githubusercontent.com/thebearmay/hubitat/main/thebearmayRepository.json"
 		},
 		{
 			"name": "Michael van Dam",
-			"location": "https://raw.githubusercontent.com/michaelvandam/Hubitat/master/repository.json" 
+			"location": "https://raw.githubusercontent.com/michaelvandam/Hubitat/master/repository.json"
 		},
 		{
 			"name": "Snell",
-			"location": "https://www.drdsnell.com/projects/hubitat/drivers/SnellRepository.json" 
+			"location": "https://www.drdsnell.com/projects/hubitat/drivers/SnellRepository.json"
 		},
 		{
 			"name": "Vincent van Didden (@Vincentiano)",
-			"location": "https://raw.githubusercontent.com/Vincentiano/Hubitat-Repositories/main/repository.json" 
+			"location": "https://raw.githubusercontent.com/Vincentiano/Hubitat-Repositories/main/repository.json"
 		},
 		{
 			"name": "Awth Wathje",
@@ -573,7 +573,7 @@
 			"location": "https://raw.githubusercontent.com/wir3z/hubitat/main/repository.json"
 		},
 		{
-			"name":"Rene Boer",
+			"name": "Rene Boer",
 			"location": "https://raw.githubusercontent.com/reneboer/Hubitat/main/hpm/respository.json"
 		},
 		{
@@ -673,20 +673,20 @@
 			"location": "https://raw.githubusercontent.com/mrmikeface/hubitat-package-repo/main/repository.json"
 		},
 		{
-			 "name": "TechBill",
-			 "location": "https://raw.githubusercontent.com/TechBill/hubitat-packages/master/repos/techbill/repository.json"
+			"name": "TechBill",
+			"location": "https://raw.githubusercontent.com/TechBill/hubitat-packages/master/repos/techbill/repository.json"
 		},
 		{
-			 "name": "RamSet",
-			 "location": "https://raw.githubusercontent.com/RamSet/hubitat/main/repository.json"
+			"name": "RamSet",
+			"location": "https://raw.githubusercontent.com/RamSet/hubitat/main/repository.json"
 		},
 		{
-			 "name": "ZoozCode",
-			 "location": "https://raw.githubusercontent.com/HubitatCommunity/ZoozCode/refs/heads/main/ZoozCode_repo.json"
+			"name": "ZoozCode",
+			"location": "https://raw.githubusercontent.com/HubitatCommunity/ZoozCode/refs/heads/main/ZoozCode_repo.json"
 		},
 		{
-			 "name": "Boguslaw Wojcik (@bogus.wojcik)",
-			 "location": "https://raw.githubusercontent.com/boguslaw-wojcik/hubitat/main/repository.json"
+			"name": "Boguslaw Wojcik (@bogus.wojcik)",
+			"location": "https://raw.githubusercontent.com/boguslaw-wojcik/hubitat/main/repository.json"
 		},
 		{
 			"name": "ke7lvb",
@@ -739,6 +739,12 @@
 		{
 			"name": "Albert Mulder",
 			"location": "https://raw.githubusercontent.com/almulder/Hubitat-Drivers/refs/heads/main/hpm/repository.json"
+		},
+		{
+			"author": "aniva",
+			"gitHubUrl": "https://github.com/aniva/hubitat01",
+			"payPalUrl": "https://paypal.me/AndreiIvanov420",
+			"location": "https://raw.githubusercontent.com/aniva/hubitat01/refs/heads/master/repository.json"
 		}
 	],
 	"hpm": {

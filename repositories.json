@@ -741,7 +741,7 @@
 			"location": "https://raw.githubusercontent.com/almulder/Hubitat-Drivers/refs/heads/main/hpm/repository.json"
 		},
 		{
-			"author": "aniva",
+			"name": "aniva",
 			"location": "https://raw.githubusercontent.com/aniva/hubitat01/refs/heads/master/repository.json"
 		}
 	],

@@ -739,6 +739,10 @@
 		{
 			"name": "Albert Mulder",
 			"location": "https://raw.githubusercontent.com/almulder/Hubitat-Drivers/refs/heads/main/hpm/repository.json"
+		},
+		{
+			"author": "aniva",
+			"location": "https://raw.githubusercontent.com/aniva/hubitat01/refs/heads/master/repository.json"
 		}
 	],
 	"hpm": {

@@ -743,6 +743,10 @@
 		{
 			"name": "aniva",
 			"location": "https://raw.githubusercontent.com/aniva/hubitat01/refs/heads/master/repository.json"
+		},
+		{
+			"name": "Paul Harrison",
+			"location": "https://raw.githubusercontent.com/pharrison5/Hubitat/refs/heads/main/repository.json"
 		}
 	],
 	"hpm": {

@@ -747,6 +747,10 @@
 		{
 			"name": "Paul Harrison",
 			"location": "https://raw.githubusercontent.com/pharrison5/Hubitat/refs/heads/main/repository.json"
+		},
+		{
+			"name": "truittchris",
+			"location": "https://raw.githubusercontent.com/truittchris/he_ical_switch/main/repository.json"
 		}
 	],
 	"hpm": {

@@ -3,7 +3,7 @@
 		{
     		"name": "signal15",
     		"location": "https://raw.githubusercontent.com/signal15/tuya-minisplit-hubitat/main/repository.json"
-  		}
+  		},
 		{
 			"name": "dman2306",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"

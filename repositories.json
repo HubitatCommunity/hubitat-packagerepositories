@@ -753,9 +753,13 @@
 			"location": "https://raw.githubusercontent.com/truittchris/he_ical_switch/main/repository.json"
 		},
 		{
-    			"name": "signal15",
-    			"location": "https://raw.githubusercontent.com/signal15/tuya-minisplit-hubitat/main/repository.json"
-    	}
+			"name": "signal15",
+			"location": "https://raw.githubusercontent.com/signal15/tuya-minisplit-hubitat/main/repository.json"
+		},
+		{
+			"name": "jlupien",
+			"location": "https://raw.githubusercontent.com/jlupien/hubitat-drivers/refs/heads/master/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"

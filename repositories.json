@@ -759,6 +759,10 @@
 		{
  			"name": "jlupien",
 			"location": "https://raw.githubusercontent.com/jlupien/hubitat-drivers/refs/heads/master/repository.json"
+		},
+		{
+			"name": "Mathew Beall",
+			"location": "https://raw.githubusercontent.com/mathewbeall/hubitat-xsense-integration/main/repository.json"
 		}
 	],
 	"hpm": {

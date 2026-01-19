@@ -717,6 +717,10 @@
 			"location": "https://raw.githubusercontent.com/mathewbeall/hubitat-resideo_T10-integration/main/repository.json"
 		},
 		{
+			"name": "Mathew Beall",
+			"location": "https://raw.githubusercontent.com/mathewbeall/hubitat-xsense-integration/main/repository.json"
+		},
+		{
 			"name": "obeisser",
 			"location": "https://raw.githubusercontent.com/obeisser/hubitat-drivers/main/repository.json"
 		},

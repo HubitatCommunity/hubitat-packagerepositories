@@ -750,7 +750,7 @@
 		},
 		{
 			"name": "truittchris",
-			"location": "https://raw.githubusercontent.com/truittchris/he_ical_switch/main/repository.json"
+			"location": "https://raw.githubusercontent.com/truittchris/hubitat-hpm/main/repository.json"
 		},
 		{
     			"name": "signal15",

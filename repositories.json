@@ -73,6 +73,10 @@
 			"location": "https://raw.githubusercontent.com/imnotbob/webCoRE/hubitat-patches/HE/repository.json"
 		},
 		{
+  "name": "kingpanther13",
+  "location": "https://raw.githubusercontent.com/kingpanther13/Hubitat-local-MCP-server/main/repository.json"
+		},
+		{
 			"name": "nh.schottfam",
 			"location": "https://raw.githubusercontent.com/imnotbob/Hubitat-Intesis/master/repository.json"
 		},

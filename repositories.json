@@ -762,6 +762,10 @@
 		{
 			"name": "Mathew Beall",
 			"location": "https://raw.githubusercontent.com/mathewbeall/hubitat-xsense-integration/main/repository.json"
+		},
+		{
+			"name": "kingpanther13",
+			"location": "https://raw.githubusercontent.com/kingpanther13/Hubitat-local-MCP-server/main/repository.json"
 		}
 	],
 	"hpm": {

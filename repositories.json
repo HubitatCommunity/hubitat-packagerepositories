@@ -385,10 +385,6 @@
 			"location": "https://raw.githubusercontent.com/pedroandrade1977/hubitat/main/repository.json"
 		},
 		{
-			"name": "Rangner Ferraz Guimaraes",
-			"location": "https://raw.githubusercontent.com/rfg81/hubitat-homeconnect/main/repository.json"
-		},
-		{
 			"name": "Simon Burke (Scruffy-Sjb)",
 			"location": "https://raw.githubusercontent.com/scruffy-sjb/Hubitat_HPM/main/repository.json"
 		},

@@ -762,6 +762,10 @@
 		{
 			"name": "kingpanther13",
 			"location": "https://raw.githubusercontent.com/kingpanther13/Hubitat-local-MCP-server/main/repository.json"
+		},
+		{
+			"name": "WindowWasher",
+			"location": "https://raw.githubusercontent.com/tyuhl/Hubitat-Packages/refs/heads/main/repository.json"
 		}
 	],
 	"hpm": {

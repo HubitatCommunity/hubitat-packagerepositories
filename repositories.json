@@ -766,6 +766,10 @@
 		{
 			"name": "HERMES Automation",
 			"location": "https://hermes-automation.com/app-code/home-dispatch/hubitat/manifests/repository.json"
+		},
+		{
+			"name": "rbyrbt",
+			"location": "https://raw.githubusercontent.com/rbyrbt/Hubitat/main/repository.json"
 		}
 	],
 	"hpm": {

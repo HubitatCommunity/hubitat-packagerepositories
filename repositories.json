@@ -770,6 +770,10 @@
 		{
 			"name": "rbyrbt",
 			"location": "https://raw.githubusercontent.com/rbyrbt/Hubitat/main/repository.json"
+		},
+		{
+			"name": "ogiewon",
+			"location": "https://raw.githubusercontent.com/ogiewon/Hubitat/refs/heads/master/repository.json"
 		}
 	],
 	"hpm": {

@@ -774,6 +774,10 @@
 		{
 			"name": "ogiewon",
 			"location": "https://raw.githubusercontent.com/ogiewon/Hubitat/refs/heads/master/repository.json"
+		},
+		{
+			"name": "Jdthomas24",
+			"location": "https://raw.githubusercontent.com/jdthomas24/Hubitat-Apps/refs/heads/main/repo.json"
 		}
 	],
 	"hpm": {

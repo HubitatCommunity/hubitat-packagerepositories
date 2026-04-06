@@ -742,7 +742,8 @@
 		},
 		{
 			"name": "truittchris",
-			"location": "https://raw.githubusercontent.com/truittchris/hubitat-hpm/main/repository.json"		},
+			"location": "https://raw.githubusercontent.com/truittchris/hubitat-hpm/main/repository.json"
+		},
 		{
     			"name": "signal15",
     			"location": "https://raw.githubusercontent.com/signal15/tuya-minisplit-hubitat/main/repository.json"
@@ -778,6 +779,10 @@
 		{
 			"name": "Jdthomas24",
 			"location": "https://raw.githubusercontent.com/jdthomas24/Hubitat-Apps/refs/heads/main/repo.json"
+		},
+		{
+ 			"name": "Haven",
+  			"location": "https://raw.githubusercontent.com/h4ven88/hestia-dashboard/main/repository.json"
 		}
 	],
 	"hpm": {

@@ -783,6 +783,10 @@
 		{
  			"name": "Haven",
   			"location": "https://raw.githubusercontent.com/h4ven88/hestia-dashboard/main/repository.json"
+		},
+		{
+			"name": "brossow",
+			"location": "https://raw.githubusercontent.com/brossow/hubitat-econet/main/repository.json"
 		}
 	],
 	"hpm": {

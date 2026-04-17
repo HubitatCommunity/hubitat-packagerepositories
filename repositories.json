@@ -787,6 +787,10 @@
 		{
 			"name": "brossow",
 			"location": "https://raw.githubusercontent.com/brossow/hubitat-econet/main/repository.json"
+		},
+		{
+			"name": "uDevel",
+			"location": "https://raw.githubusercontent.com/uDevel/hubitat-soma-shades-3/main/repository.json"
 		}
 	],
 	"hpm": {

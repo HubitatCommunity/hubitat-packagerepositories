@@ -786,7 +786,7 @@
 		},
 		{
 			"name": "brossow",
-			"location": "https://raw.githubusercontent.com/brossow/hubitat-econet/main/repository.json"
+			"location": "https://raw.githubusercontent.com/brossow/hubitat-drivers/main/repository.json"
 		},
 		{
 			"name": "uDevel",

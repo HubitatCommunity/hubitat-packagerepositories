@@ -791,6 +791,10 @@
 		{
 			"name": "uDevel",
 			"location": "https://raw.githubusercontent.com/uDevel/hubitat-soma-shades-3/main/repository.json"
+		},
+		{
+			"name": "Dan Cox (level99)",
+			"location": "https://raw.githubusercontent.com/level99/Hubitat-VeSync/main/repository.json"
 		}
 	],
 	"hpm": {

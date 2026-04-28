@@ -300,21 +300,21 @@
 			"name": "ymerj",
 			"location": "https://raw.githubusercontent.com/ymerj/hpm/main/repository.json"
 		},
-		{ 
+		{
 			"name": "Jean P. May, Jr.",
 			"location": "https://raw.githubusercontent.com/thebearmay/hubitat/main/thebearmayRepository.json"
 		},
 		{
 			"name": "Michael van Dam",
-			"location": "https://raw.githubusercontent.com/michaelvandam/Hubitat/master/repository.json" 
+			"location": "https://raw.githubusercontent.com/michaelvandam/Hubitat/master/repository.json"
 		},
 		{
 			"name": "Snell",
-			"location": "https://www.drdsnell.com/projects/hubitat/drivers/SnellRepository.json" 
+			"location": "https://www.drdsnell.com/projects/hubitat/drivers/SnellRepository.json"
 		},
 		{
 			"name": "Vincent van Didden (@Vincentiano)",
-			"location": "https://raw.githubusercontent.com/Vincentiano/Hubitat-Repositories/main/repository.json" 
+			"location": "https://raw.githubusercontent.com/Vincentiano/Hubitat-Repositories/main/repository.json"
 		},
 		{
 			"name": "Awth Wathje",
@@ -795,6 +795,10 @@
 		{
 			"name": "Dan Cox (level99)",
 			"location": "https://raw.githubusercontent.com/level99/Hubitat-VeSync/main/repository.json"
+		},
+		{
+			"name": "Jamie Curnow (jc21)",
+			"location": "https://raw.githubusercontent.com/jc21/hubitat-packages/refs/heads/main/repository.json"
 		}
 	],
 	"hpm": {

@@ -795,6 +795,10 @@
 		{
 			"name": "Dan Cox (level99)",
 			"location": "https://raw.githubusercontent.com/level99/Hubitat-VeSync/main/repository.json"
+		},
+		{
+			"name": "Jamie Curnow (jc21)",
+			"location": "https://raw.githubusercontent.com/jc21/hubitat-packages/refs/heads/main/repository.json"
 		}
 	],
 	"hpm": {

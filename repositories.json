@@ -799,6 +799,10 @@
 		{
 			"name": "Jamie Curnow (jc21)",
 			"location": "https://raw.githubusercontent.com/jc21/hubitat-packages/refs/heads/main/repository.json"
+		},
+		{
+			"name": "Ultrasmart.pl",
+			"location": "https://raw.githubusercontent.com/MarioHudds/Hubitat-Hub-Monitor/refs/heads/main/repository.json"
 		}
 	],
 	"hpm": {

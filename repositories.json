@@ -803,6 +803,10 @@
 		{
 			"name": "Ultrasmart.pl",
 			"location": "https://raw.githubusercontent.com/MarioHudds/Hubitat-Hub-Monitor/refs/heads/main/repository.json"
+		},
+		{
+			"name": "Jessica Jones (@jess)",
+			"location": "https://raw.githubusercontent.com/DoktorJ/jess-hubitat-apps/refs/heads/main/repository.json"
 		}
 	],
 	"hpm": {

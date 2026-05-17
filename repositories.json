@@ -802,7 +802,7 @@
 		},
 		{
 			"name": "Ultrasmart.pl",
-			"location": "https://raw.githubusercontent.com/MarioHudds/Hubitat-Hub-Monitor/refs/heads/main/repository.json"
+			"location": "https://raw.githubusercontent.com/MarioHudds/Hubitat-Hub-Monitor/refs/heads/main/packageManifest.json"
 		},
 		{
 			"name": "Jessica Jones (@jess)",

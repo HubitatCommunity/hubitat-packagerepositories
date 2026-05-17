@@ -807,6 +807,10 @@
 		{
 			"name": "Jessica Jones (@jess)",
 			"location": "https://raw.githubusercontent.com/DoktorJ/jess-hubitat-apps/refs/heads/main/repository.json"
+		},
+		{
+			"name": "Mads Kristensen",
+			"location": "https://raw.githubusercontent.com/madskristensen/hubitat-drivers/main/repository.json"
 		}
 	],
 	"hpm": {

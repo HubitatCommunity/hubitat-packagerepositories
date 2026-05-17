@@ -568,6 +568,10 @@
 			"name": "Lyle Pakula (@lpakula)",
 			"location": "https://raw.githubusercontent.com/wir3z/hubitat/main/repository.json"
 		},
+	{
+		"name": "Mads Kristensen",
+		"location": "https://raw.githubusercontent.com/madskristensen/hubitat-drivers/main/repository.json"
+	},
 		{
 			"name":"Rene Boer",
 			"location": "https://raw.githubusercontent.com/reneboer/Hubitat/main/hpm/respository.json"

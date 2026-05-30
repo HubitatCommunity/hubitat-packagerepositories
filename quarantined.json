@@ -1,8 +1,4 @@
 		{
-			"name": "Ultrasmart.pl",
-			"location": "https://raw.githubusercontent.com/MarioHudds/Hubitat-Hub-Monitor/refs/heads/main/repository.json"
-		},
-		{
 		 	"name": "MHedish",
 			"location": "https://raw.githubusercontent.com/MHedish/Hubitat/main/repository.json"
 		},

@@ -819,7 +819,7 @@
 		{
 			"name": "thaeropath",
 			"location": "https://raw.githubusercontent.com/thaeropath/Hubitat_Ring_Integration/main/repository.json"
-		},
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"

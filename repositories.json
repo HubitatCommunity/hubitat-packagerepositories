@@ -807,6 +807,14 @@
 		{
 			"name": "Mads Kristensen",
 			"location": "https://raw.githubusercontent.com/madskristensen/hubitat-drivers/main/repository.json"
+		},
+		{
+			"name": "Ultrasmart.pl",
+			"location": "https://raw.githubusercontent.com/MarioHudds/Hubitat-Hub-Monitor/refs/heads/main/packageManifest.json"
+		},
+		{
+			"name": "Roger Noia (rnoia)",
+			"location": "https://raw.githubusercontent.com/rnoia/Hubitat/main/repository.json"
 		}
 	],
 	"hpm": {

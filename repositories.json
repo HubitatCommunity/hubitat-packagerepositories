@@ -1,6 +1,10 @@
 {
 	"repositories": [
 		{
+			"name": "thaeropath",
+			"location": "https://raw.githubusercontent.com/thaeropath/Hubitat_Ring_Integration/main/repository.json"
+		},
+		{
 			"name": "dman2306",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"
 		},

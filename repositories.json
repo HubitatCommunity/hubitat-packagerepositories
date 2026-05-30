@@ -815,6 +815,10 @@
 		{
 			"name": "Roger Noia (rnoia)",
 			"location": "https://raw.githubusercontent.com/rnoia/Hubitat/main/repository.json"
+		},
+		{
+			"name": "thaeropath",
+			"location": "https://raw.githubusercontent.com/thaeropath/Hubitat_Ring_Integration/main/repository.json"
 		}
 	],
 	"hpm": {

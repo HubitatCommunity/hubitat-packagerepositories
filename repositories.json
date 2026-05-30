@@ -1,10 +1,6 @@
 {
 	"repositories": [
 		{
-			"name": "thaeropath",
-			"location": "https://raw.githubusercontent.com/thaeropath/Hubitat_Ring_Integration/main/repository.json"
-		},
-		{
 			"name": "dman2306",
 			"location": "https://raw.githubusercontent.com/dcmeglio/hubitat-packages/master/repository.json"
 		},
@@ -820,6 +816,10 @@
 			"name": "Roger Noia (rnoia)",
 			"location": "https://raw.githubusercontent.com/rnoia/Hubitat/main/repository.json"
 		}
+		{
+			"name": "thaeropath",
+			"location": "https://raw.githubusercontent.com/thaeropath/Hubitat_Ring_Integration/main/repository.json"
+		},
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"

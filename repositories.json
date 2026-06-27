@@ -823,6 +823,10 @@
 		{
 			"name": "waterboysh",
 			"location": "https://raw.githubusercontent.com/waterboysh/hubitat/main/repository.json"
+		},
+		{
+			"name": "zshenker",
+			"location": "https://raw.githubusercontent.com/zshenker/hubitat-homeseer-ps100/main/repository.json"
 		}
 	],
 	"hpm": {

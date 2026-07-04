@@ -823,6 +823,10 @@
 		{
 			"name": "zshenker",
 			"location": "https://raw.githubusercontent.com/zshenker/hubitat-homeseer-ps100/main/repository.json"
+		},
+		{
+			"name": "jlslate",
+			"location": "https://raw.githubusercontent.com/jlslate/SenseCAP-Indicator/main/repository.json"
 		}
 	],
 	"hpm": {

@@ -831,6 +831,10 @@
 		{
 			"name": "PositionGuard",
 			"location": "https://raw.githubusercontent.com/positionguard/positionguard-hubitat/main/repository.json"
+		},
+		{
+			"name": "mclass",
+			"location": "https://raw.githubusercontent.com/Mclass294/hubitat-sigenergy/main/repository.json"
 		}
 	],
 	"hpm": {

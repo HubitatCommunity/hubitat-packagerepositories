@@ -835,9 +835,9 @@
 		{
 			"name": "mclass",
 			"location": "https://raw.githubusercontent.com/Mclass294/hubitat-sigenergy/main/repository.json"
-		}
+		},
 		{
-            "name": "mclass",
+            "name": "mclass (Daikin)",
             "location": "https://raw.githubusercontent.com/Mclass294/Hubitat-Daikin-BRP084/main/repository.json"
         }
 	],

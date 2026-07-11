@@ -839,6 +839,10 @@
 		{
 			"name": "Kevin Kahl (@kahlkevin)",
 			"location": "https://raw.githubusercontent.com/kahlkevin/hpm-repo/main/repository.json"
+		},
+		{
+			"name": "UltronOfSpace",
+			"location": "https://raw.githubusercontent.com/UltronOfSpace/Hubitat/main/repository.json"
 		}
 	],
 	"hpm": {

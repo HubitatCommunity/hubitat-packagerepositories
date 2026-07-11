@@ -835,6 +835,10 @@
 		{
 			"name": "mclass (Daikin)",
 			"location": "https://raw.githubusercontent.com/Mclass294/Hubitat-Daikin-BRP084/main/repository.json"
+		},
+		{
+			"name": "Kevin Kahl (@kahlkevin)",
+			"location": "https://raw.githubusercontent.com/kahlkevin/hpm-repo/main/repository.json"
 		}
 	],
 	"hpm": {

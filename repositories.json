@@ -843,6 +843,10 @@
 		{
 			"name": "UltronOfSpace",
 			"location": "https://raw.githubusercontent.com/UltronOfSpace/Hubitat/main/repository.json"
+		},
+		{
+			"name": "evdev",
+			"location": "https://raw.githubusercontent.com/evdev/hubitat-modern-dashboard/master/hubitat/repository.json"
 		}
 	],
 	"hpm": {

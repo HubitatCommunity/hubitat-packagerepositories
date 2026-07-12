@@ -829,6 +829,10 @@
 			"location": "https://raw.githubusercontent.com/jlslate/SenseCAP-Indicator/main/repository.json"
 		},
 		{
+			"name": "jlslate (Composite Device)",
+			"location": "https://raw.githubusercontent.com/jlslate/Composite-Device/main/repository.json"
+		},
+		{
 			"name": "PositionGuard",
 			"location": "https://raw.githubusercontent.com/positionguard/positionguard-hubitat/main/repository.json"
 		},

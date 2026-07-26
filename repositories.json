@@ -851,6 +851,10 @@
 		{
 			"name": "Gordon Thelander",
 			"location": "https://raw.githubusercontent.com/GordonThelander/hubitat-LIFX-Light-Manager/main/repository.json"
+		},
+		{
+			"name": "hubitrep",
+			"location": "https://raw.githubusercontent.com/hubitrep/hubitat/refs/heads/main/repository.json"
 		}
 	],
 	"hpm": {

@@ -859,6 +859,10 @@
 		{
 			"name": "classic-dave",
 			"location": "https://raw.githubusercontent.com/classic-dave/hubitat-dreo/main/repository.json"
+		},
+		{
+			"name": "vision9074",
+			"location": "https://raw.githubusercontent.com/vision9074/hubitat-mila-air/main/repository.json"
 		}
 	],
 	"hpm": {

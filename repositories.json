@@ -855,6 +855,10 @@
 		{
 			"name": "hubitrep",
 			"location": "https://raw.githubusercontent.com/hubitrep/hubitat/refs/heads/main/repository.json"
+		},
+		{
+			"name": "classic-dave",
+			"location": "https://raw.githubusercontent.com/classic-dave/hubitat-dreo/main/repository.json"
 		}
 	],
 	"hpm": {

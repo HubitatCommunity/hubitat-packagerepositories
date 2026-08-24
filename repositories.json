@@ -863,6 +863,10 @@
 		{
 			"name": "vision9074",
 			"location": "https://raw.githubusercontent.com/vision9074/hubitat-pihole-integration/main/repository.json"
+		},
+		{
+			"name": "Sleuth255",
+			"location": "https://raw.githubusercontent.com/sleuth255/Yale_YRD4xx_Hubitat_driver/refs/heads/master/repository.json"
 		}
 	],
 	"hpm": {

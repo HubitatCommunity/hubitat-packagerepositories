@@ -867,6 +867,10 @@
 		{
 			"name": "Sleuth255",
 			"location": "https://raw.githubusercontent.com/sleuth255/Yale_YRD4xx_Hubitat_driver/refs/heads/master/repository.json"
+		},
+		{
+			"name": "waterboysh",
+			"location": "https://raw.githubusercontent.com/waterboysh/hubitat/main/repository.json"
 		}
 	],
 	"hpm": {

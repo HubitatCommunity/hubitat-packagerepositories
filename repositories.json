@@ -871,6 +871,10 @@
 		{
 			"name": "waterboysh",
 			"location": "https://raw.githubusercontent.com/waterboysh/hubitat/main/repository.json"
+		},
+		{
+			"name": "Rayzurbock",
+			"location": "https://raw.githubusercontent.com/rayzurbock/hubitat-muse-bridge/main/repository.json"
 		}
 	],
 	"hpm": {

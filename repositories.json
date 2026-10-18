@@ -879,6 +879,14 @@
 		{
 			"name": "TheCase",
 			"location": "https://raw.githubusercontent.com/TheCase/hubitat-packages/main/repository.json"
+		},
+		{
+			"name": "mpalermo73",
+			"location": "https://raw.githubusercontent.com/mpalermo73/hubitat/main/repository.json"
+		},
+		{
+			"name": "WBEVAN",
+			"location": "https://raw.githubusercontent.com/WBEVAN/TESmartController/main/hubitat/repository.json"
 		}
 	],
 	"hpm": {

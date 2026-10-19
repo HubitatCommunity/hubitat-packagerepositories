@@ -887,7 +887,11 @@
 		{
 			"name": "WBEVAN",
 			"location": "https://raw.githubusercontent.com/WBEVAN/TESmartController/main/hubitat/repository.json"
-		}
+		},
+		{
+  			"name": "velkovb Hubitat Drivers",
+  			"location": "https://raw.githubusercontent.com/velkovb/hubitat-drivers/main/repository.json"
+  		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"

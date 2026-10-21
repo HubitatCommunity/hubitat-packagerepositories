@@ -14,3 +14,7 @@
 			"name": "heidrickla (Lewis.Heidrick)",
 			"location": "https://raw.githubusercontent.com/heidrickla/Hubitat/main/Docs/repository.json"
 		},
+		{
+			"name": "Ben Jansen",
+			"location": "https://bitbucket.org/aogail/w007-hubitat-packages/raw/master/repository.json"
+		},

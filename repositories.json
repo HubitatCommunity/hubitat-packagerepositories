@@ -899,6 +899,10 @@
 		{
 			"name": "youzer-name",
 			"location": "https://raw.githubusercontent.com/youzer-name/Hubitat-Wiz_Dual_Zone/main/repository.json"
+  		},
+		{
+			"name": "Rob Cummings",
+			"location": "https://raw.githubusercontent.com/cummingsrob/hubitat-weather-watcher/main/repository.json"
   		}
 	],
 	"hpm": {

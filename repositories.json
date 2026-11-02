@@ -903,6 +903,10 @@
 		{
 			"name": "Rob Cummings",
 			"location": "https://raw.githubusercontent.com/cummingsrob/hubitat-weather-watcher/main/repository.json"
+		},
+		{
+			"name": "howarddavidp", 
+			"location": "https://raw.githubusercontent.com/howarddavidp/hubitat-sifely-wifi-lock/main/repository.json"
   		}
 	],
 	"hpm": {

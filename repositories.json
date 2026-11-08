@@ -907,6 +907,10 @@
 		{
 			"name": "howarddavidp", 
 			"location": "https://raw.githubusercontent.com/howarddavidp/hubitat-sifely-wifi-lock/main/repository.json"
+  		},
+		{
+			"name": "Tobey Ljungberg", 
+			"location": "https://raw.githubusercontent.com/tobeyljungberg/HPM/main/repository.json"
   		}
 	],
 	"hpm": {

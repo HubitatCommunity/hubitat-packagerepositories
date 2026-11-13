@@ -445,10 +445,6 @@
 			"location": "https://raw.githubusercontent.com/FriedCheese2006/RLE_Hubitat/main/RLE_repo.json"
 		},
 		{
-			"name": "TheMaster",
-			"location": "https://raw.githubusercontent.com/tmastersmart/hubitat-code/main/packages/repository.json"
-		},
-		{
 			"name": "Greg Billings",
 			"location": "https://raw.githubusercontent.com/diosadentro/Hubitat/main/repository.json"
 		},

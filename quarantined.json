@@ -18,3 +18,7 @@
 			"name": "Ben Jansen",
 			"location": "https://bitbucket.org/aogail/w007-hubitat-packages/raw/master/repository.json"
 		},
+		{
+			"name": "TheMaster",
+			"location": "https://raw.githubusercontent.com/tmastersmart/hubitat-code/main/packages/repository.json"
+		},

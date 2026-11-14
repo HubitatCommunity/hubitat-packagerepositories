@@ -907,7 +907,11 @@
 		{
 			"name": "Tobey Ljungberg", 
 			"location": "https://raw.githubusercontent.com/tobeyljungberg/HPM/main/repository.json"
-  		}
+  		},
+		{
+			"name": "Heatvent",
+			"location": "https://raw.githubusercontent.com/heatvent/hubitat-drivers/main/repository.json"
+		}
 	],
 	"hpm": {
 		"location": "https://raw.githubusercontent.com/HubitatCommunity/hubitatpackagemanager/main/packageManifest.json"
